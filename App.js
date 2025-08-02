@@ -7,7 +7,7 @@ function App() {
 
   return (
     <div>
-      <h1 style={{ textAlign: 'center' }}>ZEN BYTE</h1>
+      <h1>ZEN BYTE</h1>
 
       <div style={{ textAlign: 'center', margin: '20px' }}>
         <button onClick={() => setShowForm(true)} className="submit-btn">
